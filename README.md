@@ -1,4 +1,4 @@
-# Divina Terra · Diagnóstico completo
+# Divina Terra · Diagnóstico completo da loja Pinheiros
 
 Apresentação da 75 LAB publicada em https://projetos.75lab.com.br/divina-terra-diagnostico-completo/
 
