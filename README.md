@@ -1,4 +1,4 @@
-# Diagnóstico completo Divina Terra
+# Divina Terra · diagnóstico completo
 
 Apresentação da 75 LAB publicada em https://projetos.75lab.com.br/divina-terra-diagnostico-completo/
 
